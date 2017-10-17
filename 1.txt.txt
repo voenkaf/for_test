@@ -1,4 +1,7 @@
 dsadassadasdasdasdascsc assd
 sadasdas
 11
+<<<<<<< HEAD
 1
+=======
+>>>>>>> origin/master
